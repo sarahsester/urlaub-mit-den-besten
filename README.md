@@ -56,7 +56,7 @@ Andernfalls, wenn Head-Knoten und Tail-Knoten sich nicht berühren und nicht in 
 .....      .....      .....
 ```
 
-Du musst herausfinden, wohin der Tail-Knoten geht, wenn der Head-Knoten einer Reihe von Bewegungen folgt. Gehe davon aus, dass Head und Tail an der gleichen Stelle beginnen und sich überlappen.
+Du musst herausfinden, wohin der Tail-Knoten geht, wenn der Head-Knoten einer Reihe von Bewegungen folgt. Gehe davon aus, dass Head- und Tail-Knoten an der gleichen Stelle beginnen und sich überlappen.
  
 Zum Beispiel:
  ```
@@ -252,4 +252,8 @@ Nachdem du das Seil simuliert hast, kannst du alle Positionen aufzählen, die de
 s###..
 ```
 
-Es gibt also 13 Positionen, die der Tail-Knoten mindestens einmal besucht hat.
+Im obigen Beispiel gibt es also 13 Positionen, die der Tail-Knoten mindestens einmal besucht hat.
+
+
+Simuliere das Seil wie in *urlaub-03-input.txt* angegeben. Head- und Tail-Knoten beginnen an der gleichen Stelle. **Wie viele Positionen hat der Tail-Knoten mindestens einmal besucht?**
+
