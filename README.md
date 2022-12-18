@@ -242,7 +242,7 @@ s.....
 ```
 
 
-Nachdem du das Seil simuliert hast, kannst du alle Positionen aufzählen, die der Tail-Knoten mindestens einmal besucht hat. In diesem Diagramm markiert s wieder die Startposition (die der Tail-Knoten auch besucht hat) und # markiert andere Positionen, die der Tail-Knoten besucht hat:
+Nachdem du das Seil simuliert hast, kannst du alle Positionen aufzählen, die der Tail-Knoten mindestens einmal besucht hat. In diesem Gitter markiert s wieder die Startposition (die der Tail-Knoten auch besucht hat) und # markiert andere Positionen, die der Tail-Knoten besucht hat:
 
 ```
 ..##..
@@ -252,8 +252,8 @@ Nachdem du das Seil simuliert hast, kannst du alle Positionen aufzählen, die de
 s###..
 ```
 
-Im obigen Beispiel gibt es also 13 Positionen, die der Tail-Knoten mindestens einmal besucht hat.
+Im obigen Beispiel gibt es also 13 Positionen, die der Tail-Knoten mindestens einmal besucht hat. Das Gitter wurde hier 6x5 dargestellt, ist aber in Wahrheit unendlich groß.
 
 
-Simuliere das Seil wie in *urlaub-03-input.txt* angegeben. Head- und Tail-Knoten beginnen an der gleichen Stelle. **Wie viele Positionen hat der Tail-Knoten mindestens einmal besucht?**
+Simuliere das Seil wie in *urlaub-03-input.txt* angegeben. Head- und Tail-Knoten beginnen an der gleichen Stelle. Das "Gitter" ist unendlich groß. **Wie viele Positionen hat der Tail-Knoten mindestens einmal besucht?**
 
